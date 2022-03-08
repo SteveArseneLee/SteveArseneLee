@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)
 [![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveArseneLee&layout=compact)](https://github.com/SteveArseneLee/github-readme-stats)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
