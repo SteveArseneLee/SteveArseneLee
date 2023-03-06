@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - Cloud Computing
 - Backend Engineering
 
+## 기술블로그(https://squiddeveloper.notion.site/squiddeveloper/SteveArseneLee-8283e5cd76db4860aebe8deb1b54371a)
+
 [Spark&Flink 수료증.pdf](https://github.com/SteveArseneLee/SteveArseneLee/files/10893577/Spark.Flink.pdf)
 
 [![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats)
