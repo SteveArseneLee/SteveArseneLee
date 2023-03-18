@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align=center><h1>📚 STACKS</h1></div>
 
 ### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ### Data Engineering
 <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/flink-E6526F?style=for-the-badge&logo=flink&logoColor=white"> <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white"> <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=spark&logoColor=white"> <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=airflow&logoColor=white"> <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> 
