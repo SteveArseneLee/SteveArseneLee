@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - Backend Engineering
 
 <div align=center><h1>📚 STACKS</h1></div>
-### Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+### Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### Data Engineering
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
