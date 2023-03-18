@@ -24,8 +24,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### Data Engineering
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/flink-E6526F?style=for-the-badge&logo=flink&logoColor=white">
+<img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white">
+<img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=spark&logoColor=white">
+<img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=airflow&logoColor=white">
+
+
 
 ### SCP
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
