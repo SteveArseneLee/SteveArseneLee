@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - Cloud Computing
 - Backend Engineering
 
+<div align=center><h1>📚 STACKS</h1></div>
+- Language <img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+
 
 ## [기술블로그](https://squiddeveloper.notion.site/squiddeveloper/SteveArseneLee-8283e5cd76db4860aebe8deb1b54371a)
 
