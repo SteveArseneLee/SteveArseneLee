@@ -42,11 +42,9 @@ Here are some ideas to get you started:
 
 [![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats)
 
-Python
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)
+#### Python [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)
 
-Java
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tealgorithmst)](https://solved.ac/tealgorithmst/)
+#### Java [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tealgorithmst)](https://solved.ac/tealgorithmst/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveArseneLee&layout=compact)](https://github.com/SteveArseneLee/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
