@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 
 [![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats)
 
-<div align=left><h1>Python</h1></div>
+<div align=center><h1>Python</h1></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/) 
-<div align=right><h1>JAVA</h1></div>
+
+<div align=center><h1>JAVA</h1></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tealgorithmst)](https://solved.ac/tealgorithmst/)
 
