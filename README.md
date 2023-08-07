@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <!--[Spark&Flink 수료증.pdf](https://github.com/SteveArseneLee/SteveArseneLee/files/10893577/Spark.Flink.pdf) -->
 
-[![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats)
+<!--[![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats) -->
 
 <div align=center><h1>Python</h1></div>
 
