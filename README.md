@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ### Data Engineering
-Apache
+Apache  
 <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"> <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=white"> <img src="https://img.shields.io/badge/flink-E6526F?style=for-the-badge&logo=apache flink&logoColor=white"> <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apache hadoop&logoColor=white"> <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache airflow&logoColor=white">
 <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"> 
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
