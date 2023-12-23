@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-# ↓↓↓ 최대한 이론적인건 노션에 작성하거나 **지양**하고 코드만을 **지향**합니다. ↓↓↓
+# ↓↓↓ 최대한 이론적인건 노션에 작성하거나 코드만을 지향합니다. ↓↓↓
 ## [기술블로그](https://squiddeveloper.notion.site/squiddeveloper/SteveArseneLee-8283e5cd76db4860aebe8deb1b54371a)
 
 <!--[Spark&Flink 수료증.pdf](https://github.com/SteveArseneLee/SteveArseneLee/files/10893577/Spark.Flink.pdf) -->
