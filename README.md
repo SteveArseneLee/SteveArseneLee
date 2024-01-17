@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 <!--[![SteveArseneLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveArseneLee)](https://github.com/SteveArseneLee/github-readme-stats) -->
 
-<div align=center><h1>Python     /     Java</h1></div>
+<div align=center><h1>Python</h1></div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tealgorithmst)](https://solved.ac/tealgorithmst/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lclgood97)](https://solved.ac/lclgood97/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveArseneLee&layout=compact)](https://github.com/SteveArseneLee/github-readme-stats)  [![코드트리|실력진단-lclgood](https://banner.codetree.ai/v1/banner/lclgood)](https://www.codetree.ai/profiles/lclgood)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
