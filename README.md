@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 - Data Engineering
-- Cloud Computing
-- Backend Engineering
+- Cloud Computing / Backend Engineering
 
 <div align=center><h1>📚 STACKS</h1></div>
 
