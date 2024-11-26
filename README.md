@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align=center><h1>📚 STACKS</h1></div>
 
-### Language
+<!--### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ### Data Engineering
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ### Framework
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 
+--> 
 
 <!-- ## [기술블로그](https://squiddeveloper.notion.site/squiddeveloper/SteveArseneLee-8283e5cd76db4860aebe8deb1b54371a) -->
 
